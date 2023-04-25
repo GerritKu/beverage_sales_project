@@ -1,0 +1,26 @@
+version: '3'
+services:
+ 
+  etl_job:
+    build: ./etl_lokal
+    container_name: etl_sample
+    volumes: 
+    - ./etl_lokal/:/app
+    depends_on:
+    - postgresdb
+  
+  postgresdb:
+    image: postgres
+    container_name: postgres_sample
+    ports:
+    - 5556:5432
+    env_file:
+     - .env
+  
+  metabase:
+    image: metabase/metabase
+    container_name: mb_sample
+    ports:
+    - 3001:3000
+    depends_on:
+    - postgresdb

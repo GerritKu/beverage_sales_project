@@ -1,0 +1,501 @@
+,Kunden-Nr.,country,borough,country_code,straße,Ort,PLZ,suburb,latitude,longitude
+0,8391.0,USA,California,us,1870 A Street,Oroville,95966,CA,39.499763,-121.551396
+1,8395.0,USA,California,us,3600 Pennsylvania Avenue,Fremont,94536,CA,37.5516245,-121.9872735
+2,8397.0,USA,California,us,4981 Shirley Way,Livermore,94550,CA,37.682649,-121.733308
+3,8399.0,USA,California,us,5110 East Shoshone Avenue,Orange,92867,CA,33.814782,-117.798075
+4,8401.0,USA,California,us,6925 Lariat Lane,Castro Valley,94552,CA,37.7157257,-122.0270913
+5,8403.0,USA,California,us,654 Laurette Place,Hayward,94544,CA,37.647646,-122.066458
+6,8404.0,USA,California,us,1 Kelton Court,Oakland,94611,CA,37.8243896,-122.2508859
+7,8406.0,USA,California,us,849 East Victoria Street,Carson,90746,CA,33.8673562,-118.2597713
+8,8408.0,USA,California,us,1820 Scenic Avenue,Berkeley,94709,CA,37.875242,-122.262537
+9,8412.0,USA,California,us,6057 Griffith Avenue,Linda,95901,CA,39.1299599,-121.523663
+10,8414.0,USA,California,us,1937 Carleton Street,Berkeley,94704,CA,37.861126,-122.270083
+11,8415.0,USA,California,us,11522 Country Spring Court,Cupertino,95014,CA,37.3004559,-122.049009
+12,8416.0,USA,California,us,145 Grau Drive,Fremont,94536,CA,37.582453,-121.994476
+13,8418.0,USA,California,us,5264 Shafter Avenue,Oakland,94618,CA,37.839058,-122.256035
+14,8422.0,USA,California,us,703 Elizabeth Barcus Way,Fortuna,95540,CA,40.59661,-124.132857
+15,8423.0,USA,California,us,5410 McLean Drive,Elk Grove,95757,CA,38.3890938,-121.4409219
+16,8424.0,USA,California,us,406 Ashwood Court,Vacaville,95688,CA,38.3907616,-121.9805548
+17,8425.0,USA,California,us,22538 6th Street,Hayward,94541,CA,37.680829,-122.07335
+18,8427.0,USA,California,us,20370 California 116,Monte Rio,95462,CA,38.4677404,-123.0097631
+19,8428.0,USA,California,us,3959 Fairlands Drive,Pleasanton,94588,CA,37.6992001,-121.8703701
+20,8429.0,USA,California,us,72 Salmon Road,Alameda,94502,CA,37.739659,-122.255689
+21,8431.0,USA,California,us,23501 Ida Lane,Hayward,94541,CA,37.660696,-122.100733
+22,8432.0,USA,California,us,1226 Blossom Circle,Livermore,94550,CA,37.679629,-121.739175
+23,8433.0,USA,California,us,3 Carson Street,Chico,95928,CA,39.725125,-121.796593
+24,8434.0,USA,California,us,3215 Madsen Street,Hayward,94541,CA,37.6618825,-122.0904612
+25,8435.0,USA,California,us,145 Grau Drive,Fremont,94536,CA,37.582453,-121.994476
+26,8436.0,USA,California,us,649 Praderia Circle,Fremont,94539,CA,37.5203849,-121.9236162
+27,8437.0,USA,California,us,3189 Main Street,Mammoth Lakes,93546,CA,37.6470787,-118.9686523
+28,8438.0,USA,California,us,32532 Jean Drive,Union City,94587,CA,37.5752359,-122.07283
+29,8439.0,USA,California,us,36360 Beech Place,Newark,94560,CA,37.53467699999999,-122.047933
+30,8441.0,USA,California,us,1753 Carswell Court,Suisun City,94585,CA,38.262862,-121.986278
+31,8442.0,USA,California,us,19416 Barclay Road,Castro Valley,94546,CA,37.70382,-122.091054
+32,8443.0,USA,California,us,406 Ashwood Court,Vacaville,95688,CA,38.3907616,-121.9805548
+33,8445.0,USA,California,us,1219 Carleton Street,Berkeley,94702,CA,37.8591054,-122.285823
+34,8446.0,USA,California,us,701 Mussel Slough Road,Hanford,93230,CA,36.353319,-119.655288
+35,8447.0,USA,California,us,72 Salmon Road,Alameda,94502,CA,37.739659,-122.255689
+36,8448.0,USA,California,us,1528 Spruce Street,Berkeley,94709,CA,37.879558,-122.266155
+37,8449.0,USA,California,us,11256 Palos Verdes Court,Cupertino,95014,CA,37.3044458,-122.0529017
+38,8450.0,USA,California,us,145 Grau Drive,Fremont,94536,CA,37.582453,-121.994476
+39,8451.0,USA,California,us,4511 Sloat Road,Fremont,94538,CA,37.5420236,-121.9926731
+40,8454.0,USA,California,us,145 Grau Drive,Fremont,94536,CA,37.582453,-121.994476
+41,8455.0,USA,California,us,775 47th Street,Oakland,94609,CA,37.835259,-122.2688057
+42,8456.0,USA,California,us,1820 Scenic Avenue,Berkeley,94709,CA,37.875242,-122.262537
+43,8457.0,USA,California,us,3228 Chettenham Drive,Rancho Cordova,95670,CA,38.577813,-121.301333
+44,8460.0,USA,California,us,2703 Woolsey Street,Berkeley,94705,CA,37.854131,-122.252442
+45,8461.0,USA,California,us,612 E Street,Marysville,95901,CA,39.1416756,-121.5911593
+46,8462.0,USA,California,us,15557 Sutter Creek Road,Sutter Creek,95685,CA,38.41209300000001,-120.738443
+47,8466.0,USA,California,us,619 Colusa Avenue,Berkeley,94707,CA,37.896256,-122.284523
+48,8469.0,USA,California,us,7237 Wild Currant Way,Oakland,94611,CA,37.8387892,-122.1996064
+49,8470.0,USA,California,us,5938 Laguna Honda Street,Redding,96001,CA,40.5283666,-122.3878429
+50,8471.0,USA,California,us,2807 Huxley Place,Fremont,94555,CA,37.584941,-122.03291
+51,8472.0,USA,California,us,701 Mussel Slough Road,Hanford,93230,CA,36.353319,-119.655288
+52,8473.0,USA,California,us,7725 Ney Avenue,Oakland,94605,CA,37.767338,-122.167775
+53,8479.0,USA,California,us,1 Kelton Court,Oakland,94611,CA,37.8243896,-122.2508859
+54,8480.0,USA,California,us,14285 Wycliff Way,Magalia,95954,CA,39.829745,-121.604994
+55,8481.0,USA,California,us,19416 Barclay Road,Castro Valley,94546,CA,37.70382,-122.091054
+56,8482.0,USA,California,us,145 Grau Drive,Fremont,94536,CA,37.582453,-121.994476
+57,8862.0,USA,California,us,37675 Fremont Boulevard,Fremont,94536,CA,37.555306,-122.003412
+58,10812.0,USA,California,us,4255 Tanager Common,Fremont,94555,CA,37.5738888,-122.0460256
+59,10824.0,USA,California,us,2732 Humboldt Avenue,Oakland,94602,CA,37.7906226,-122.2090177
+60,10829.0,USA,California,us,26334 Adrian Avenue,Hayward,94545,CA,37.636421,-122.102691
+61,10848.0,USA,California,us,849 East Victoria Street,Carson,90746,CA,33.8673562,-118.2597713
+62,10857.0,USA,California,us,72 Salmon Road,Alameda,94502,CA,37.739659,-122.255689
+63,10862.0,USA,California,us,3538 Mendenhall Court,Pleasanton,94588,CA,37.6991919,-121.85909
+64,10888.0,USA,California,us,1481 Stannage Avenue,Berkeley,94702,CA,37.87654149999999,-122.2926347
+65,10900.0,USA,California,us,236 Alden Road,Hayward,94541,CA,37.682588,-122.112121
+66,10902.0,USA,California,us,682 Brighton Way,Livermore,94551,CA,37.689729,-121.791712
+67,10903.0,USA,California,us,3959 Fairlands Drive,Pleasanton,94588,CA,37.6992001,-121.8703701
+68,10904.0,USA,California,us,40700 Penn Lane,Fremont,94538,CA,37.540659,-121.957693
+69,10918.0,USA,California,us,4255 Tanager Common,Fremont,94555,CA,37.5738888,-122.0460256
+70,10923.0,USA,California,us,16303 Mateo Street,San Leandro,94578,CA,37.697031,-122.11392
+71,10931.0,USA,California,us,5410 McLean Drive,Elk Grove,95757,CA,38.3890938,-121.4409219
+72,10962.0,USA,California,us,826 Webster Street,Hayward,94544,CA,37.6410274,-122.0560558
+73,10970.0,USA,California,us,37600 Sycamore Street,Newark,94560,CA,37.5261943,-122.0304698
+74,10973.0,USA,California,us,1701 Atlantic Street,Union City,94587,CA,37.602458,-122.046613
+75,10974.0,USA,California,us,260 Rio Del Mar Boulevard,Aptos,95003,CA,36.967915,-121.902513
+76,10978.0,USA,California,us,4770 Balboa Way,Fremont,94536,CA,37.551937,-122.021022
+77,10996.0,USA,California,us,441 Merritt Avenue,Oakland,94610,CA,37.8058663,-122.2493644
+78,10997.0,USA,California,us,4255 Tanager Common,Fremont,94555,CA,37.5738888,-122.0460256
+79,10998.0,USA,California,us,3215 Madsen Street,Hayward,94541,CA,37.6618825,-122.0904612
+80,11019.0,USA,California,us,1937 Carleton Street,Berkeley,94704,CA,37.861126,-122.270083
+81,11026.0,USA,California,us,2747 68th Avenue,Oakland,94605,CA,37.768532,-122.180694
+82,11028.0,USA,California,us,618 Staley Avenue,Hayward,94541,CA,37.6629263,-122.091801
+83,11037.0,USA,California,us,4016 Doane Street,Fremont,94538,CA,37.514834,-121.95302
+84,11048.0,USA,California,us,1821 Catalpa Way,Hayward,94545,CA,37.622266,-122.081085
+85,11049.0,USA,California,us,2014 Clemens Road,Oakland,94602,CA,37.809976,-122.208322
+86,11051.0,USA,California,us,1497 Greenbrier Road,West Sacramento,95691,CA,38.547427,-121.521598
+87,11052.0,USA,California,us,3228 Chettenham Drive,Rancho Cordova,95670,CA,38.577813,-121.301333
+88,11056.0,USA,California,us,2335 Orchard View Lane,Escondido,92027,CA,33.119461,-117.007959
+89,11065.0,USA,California,us,2014 Clemens Road,Oakland,94602,CA,37.809976,-122.208322
+90,11076.0,USA,California,us,5732 Jean Drive,Union City,94587,CA,37.580691,-122.082773
+91,11078.0,USA,California,us,2035 Ninth Street,Berkeley,94710,CA,37.8676351,-122.2938418
+92,11080.0,USA,California,us,826 Webster Street,Hayward,94544,CA,37.6410274,-122.0560558
+93,11088.0,USA,California,us,4540 Phyllis Court,Livermore,94550,CA,37.6871239,-121.7409406
+94,11089.0,USA,California,us,2807 Huxley Place,Fremont,94555,CA,37.584941,-122.03291
+95,11097.0,USA,California,us,553 South Arlington Road,Orange,92869,CA,33.7794839,-117.820383
+96,11099.0,USA,California,us,5805 Armada Drive,Carlsbad,92008,CA,33.1238541,-117.3152497
+97,11122.0,USA,California,us,3819 Vineyard Avenue,Pleasanton,94566,CA,37.6631486,-121.862728
+98,11128.0,USA,California,us,7800 River Mist Avenue,Bakersfield,93313,CA,35.308551,-119.088746
+99,11135.0,USA,California,us,14285 Wycliff Way,Magalia,95954,CA,39.829745,-121.604994
+100,11137.0,USA,California,us,6100 Bullard Drive,Oakland,94611,CA,37.829801,-122.216252
+101,11145.0,USA,California,us,16502 South Main Street,Gardena,90248,CA,33.8816216,-118.2753946
+102,11146.0,USA,California,us,18687 County Road 97,Woodland,95695,CA,38.66777099999999,-121.820164
+103,11150.0,USA,California,us,152 Holly Court,Mountain View,94043,CA,37.390391,-122.060062
+104,11159.0,USA,California,us,1890 Orchard View Road,Roseville,95747,CA,38.7943511,-121.3518236
+105,11160.0,USA,California,us,6145 East Castro Valley Boulevard,Castro Valley,94552,CA,37.6992206,-122.0300502
+106,11161.0,USA,California,us,33300 Mission Boulevard,Union City,94587,CA,37.6085241,-122.0190805
+107,11209.0,USA,California,us,11 Eclipse Court,Alameda,94501,CA,37.7823187,-122.2678109
+108,11225.0,USA,California,us,618 Staley Avenue,Hayward,94541,CA,37.6629263,-122.091801
+109,11243.0,USA,California,us,11256 Palos Verdes Court,Cupertino,95014,CA,37.3044458,-122.0529017
+110,11272.0,USA,California,us,2335 Orchard View Lane,Escondido,92027,CA,33.119461,-117.007959
+111,11289.0,USA,California,us,2708 Mabel Street,Berkeley,94702,CA,37.857695,-122.284908
+112,11292.0,USA,California,us,47634 Kato Road,Fremont,94538,CA,37.4711524,-121.9288008
+113,11314.0,USA,California,us,2064 West Columbia Way,Hanford,93230,CA,36.3336245,-119.6799802
+114,8636.0,USA,California,us,6244 Sun River Drive,Sacramento,95824,CA,38.512894,-121.41258
+115,8637.0,USA,California,us,4438 Maine Avenue,Baldwin Park,91706,CA,34.093409,-117.959953
+116,10666.0,USA,California,us,465 Humboldt Way,Livermore,94551,CA,37.6958861,-121.7952093
+117,10673.0,USA,California,us,5715 Saint Matthew Drive,Newark,94560,CA,37.538738,-122.024679
+118,10792.0,USA,California,us,26334 Adrian Avenue,Hayward,94545,CA,37.636421,-122.102691
+119,10795.0,USA,California,us,31250 Courthouse Drive,Union City,94587,CA,37.60187639999999,-122.0648031
+120,10796.0,USA,California,us,24147 Clinton Court,Hayward,94545,CA,37.648857,-122.112388
+121,10800.0,USA,California,us,2515 60th Avenue,Oakland,94605,CA,37.7705346,-122.1907449
+122,10804.0,USA,California,us,2400 Easy Street,San Leandro,94578,CA,37.70656,-122.108047
+123,10813.0,USA,California,us,7237 Wild Currant Way,Oakland,94611,CA,37.8387892,-122.1996064
+124,10816.0,USA,California,us,136 Acacia Drive,Blue Lake,95525,CA,40.879484,-123.978726
+125,10822.0,USA,California,us,20930 Todd Valley Road,Foresthill,95631,CA,38.989466,-120.883108
+126,10823.0,USA,California,us,918 Cheryl Ann Circle,Hayward,94544,CA,37.635859,-122.076923
+127,10836.0,USA,California,us,73455 Twentynine Palms Highway,Twentynine Palms,92277,CA,34.1353352,-116.0598794
+128,10837.0,USA,California,us,680 Quintana Road,Morro Bay,93442,CA,35.3689245,-120.8436854
+129,10839.0,USA,California,us,210 Beachcomber Drive,Pismo Beach,93449,CA,35.169193,-120.694434
+130,10845.0,USA,California,us,2704 McGee Avenue,Berkeley,94703,CA,37.8589787,-122.2757415
+131,10849.0,USA,California,us,450 C Street,Hayward,94541,CA,37.6678718,-122.0917029
+132,10854.0,USA,California,us,152 Holly Court,Mountain View,94043,CA,37.390391,-122.060062
+133,10858.0,USA,California,us,2399 East 14th Street,San Leandro,94577,CA,37.7159947,-122.1460405
+134,10863.0,USA,California,us,1643 Oxford Street,Berkeley,94709,CA,37.877894,-122.266436
+135,10883.0,USA,California,us,2511 Hearst Avenue,Berkeley,94709,CA,37.8754289,-122.259581
+136,10886.0,USA,California,us,314 Mesa Street,Wheatland,95692,CA,39.012762,-121.424206
+137,10890.0,USA,California,us,32512 Christine Drive,Union City,94587,CA,37.5727239,-122.0765151
+138,10891.0,USA,California,us,6214 Herzog Street,Oakland,94608,CA,37.84557849999999,-122.2825201
+139,10914.0,USA,California,us,28250 Dickens Avenue,Hayward,94544,CA,37.626108,-122.072898
+140,10929.0,USA,California,us,2348 Cantalise Drive,Dublin,94568,CA,37.7203643,-121.8472135
+141,10932.0,USA,California,us,30451 Servilla Place,Castaic,91384,CA,34.47215,-118.643301
+142,10938.0,USA,California,us,406 Ashwood Court,Vacaville,95688,CA,38.3907616,-121.9805548
+143,10939.0,USA,California,us,3115 North Lake Boulevard,Tahoe City,96145,CA,39.190947,-120.108825
+144,10980.0,USA,California,us,101 Mustang Drive,San Luis Obispo,93405,CA,35.294785,-120.66573
+145,10995.0,USA,California,us,701 Mussel Slough Road,Hanford,93230,CA,36.353319,-119.655288
+146,11005.0,USA,California,us,61 Callahan Way,Mammoth Lakes,93546,CA,37.647421,-118.978423
+147,11006.0,USA,California,us,1732 27th Avenue,Oakland,94601,CA,37.783431,-122.228238
+148,11030.0,USA,California,us,4500 Margalo Avenue,Bakersfield,93313,CA,35.305082,-119.052448
+149,11032.0,USA,California,us,474 Merritt Avenue,Oakland,94610,CA,37.8064419,-122.248422
+150,11033.0,USA,California,us,3610 Story Road,San Jose,95127,CA,37.36691,-121.804753
+151,11036.0,USA,California,us,25793 Durrwood Court,Castro Valley,94552,CA,37.6788246,-122.0341169
+152,11039.0,USA,California,us,1061 Sumatra Street,Hayward,94544,CA,37.628092,-122.072806
+153,11041.0,USA,California,us,1521 159th Avenue,San Leandro,94578,CA,37.70179340000001,-122.1192658
+154,11043.0,USA,California,us,2755 Country Drive,Fremont,94536,CA,37.557882,-121.986823
+155,11044.0,USA,California,us,1761 Thousand Oaks Boulevard,Berkeley,94707,CA,37.897449,-122.28256
+156,11045.0,USA,California,us,328 17th Street,Paso Robles,93446,CA,35.629985,-120.702516
+157,11054.0,USA,California,us,468 Raymond Drive,Ione,95640,CA,38.356566,-120.935883
+158,11055.0,USA,California,us,73455 Twentynine Palms Highway,Twentynine Palms,92277,CA,34.1353352,-116.0598794
+159,11064.0,USA,California,us,145 Grau Drive,Fremont,94536,CA,37.582453,-121.994476
+160,11067.0,USA,California,us,3600 Pennsylvania Avenue,Fremont,94536,CA,37.5516245,-121.9872735
+161,11075.0,USA,California,us,30451 Servilla Place,Castaic,91384,CA,34.47215,-118.643301
+162,11077.0,USA,California,us,1772 150th Avenue,San Leandro,94578,CA,37.708643,-122.124605
+163,11094.0,USA,California,us,5938 Laguna Honda Street,Redding,96001,CA,40.5283666,-122.3878429
+164,11095.0,USA,California,us,2064 West Columbia Way,Hanford,93230,CA,36.3336245,-119.6799802
+165,11096.0,USA,California,us,4876 Norris Road,Fremont,94536,CA,37.543515,-122.008143
+166,11101.0,USA,California,us,1909 Seventh Street,Berkeley,94710,CA,37.869121,-122.296661
+167,11102.0,USA,California,us,1736 81st Avenue,Oakland,94621,CA,37.75841,-122.175261
+168,11106.0,USA,California,us,3538 Mendenhall Court,Pleasanton,94588,CA,37.6991919,-121.85909
+169,11111.0,USA,California,us,2515 60th Avenue,Oakland,94605,CA,37.7705346,-122.1907449
+170,11121.0,USA,California,us,680 Quintana Road,Morro Bay,93442,CA,35.3689245,-120.8436854
+171,11123.0,USA,California,us,1238 Roanwood Way,Concord,94521,CA,37.94042,-121.944464
+172,11124.0,USA,California,us,835 Shiloh Court,Redding,96003,CA,40.620584,-122.368137
+173,11129.0,USA,California,us,6925 Lariat Lane,Castro Valley,94552,CA,37.7157257,-122.0270913
+174,11130.0,USA,California,us,1797 Pasatiempo Drive,Chico,95928,CA,39.6777229,-121.7704692
+175,11131.0,USA,California,us,840 Inglewood Drive,West Sacramento,95605,CA,38.591235,-121.524984
+176,11140.0,USA,California,us,26466 Mockingbird Lane,Hayward,94544,CA,37.6410262,-122.0864272
+177,11147.0,USA,California,us,1040 University Avenue,Berkeley,94710,CA,37.8685768,-122.2934965
+178,11148.0,USA,California,us,1194 Cragmont Avenue,Berkeley,94708,CA,37.8880229,-122.256999
+179,11151.0,USA,California,us,32532 Jean Drive,Union City,94587,CA,37.5752359,-122.07283
+180,11162.0,USA,California,us,1536 North Main Street,Salinas,93906,CA,36.7122208,-121.6522485
+181,11186.0,USA,California,us,19416 Barclay Road,Castro Valley,94546,CA,37.70382,-122.091054
+182,11216.0,USA,California,us,90 Via Verde,San Lorenzo,94580,CA,37.67869,-122.117142
+183,11228.0,USA,California,us,2134 West Mills Drive,Orange,92868,CA,33.786584,-117.875665
+184,11236.0,USA,California,us,1736 81st Avenue,Oakland,94621,CA,37.75841,-122.175261
+185,11268.0,USA,California,us,439 Crestmont Drive,Oakland,94619,CA,37.799782,-122.178871
+186,11277.0,USA,California,us,23501 Ida Lane,Hayward,94541,CA,37.660696,-122.100733
+187,11279.0,USA,California,us,37600 Sycamore Street,Newark,94560,CA,37.5261943,-122.0304698
+188,11280.0,USA,California,us,107 Guaymas Place,Davis,95616,CA,38.567048,-121.746046
+189,11286.0,USA,California,us,55620 Jolon Road,King City,93930,CA,36.1162599,-121.130646
+190,8611.0,USA,California,us,649 Praderia Circle,Fremont,94539,CA,37.5203849,-121.9236162
+191,8613.0,USA,California,us,4920 Quonset Drive,Sacramento,95820,CA,38.530987,-121.417033
+192,8615.0,USA,California,us,4540 Phyllis Court,Livermore,94550,CA,37.6871239,-121.7409406
+193,10192.0,USA,California,us,5410 McLean Drive,Elk Grove,95757,CA,38.3890938,-121.4409219
+194,10828.0,USA,California,us,16910 Alpine Drive,Pioneer,95666,CA,38.452242,-120.525135
+195,11023.0,USA,California,us,26563 Chisholm Court,Hayward,94544,CA,37.641711,-122.078659
+196,11024.0,USA,California,us,14285 Wycliff Way,Magalia,95954,CA,39.829745,-121.604994
+197,11025.0,USA,California,us,2632 Jackson Street East,Carson,90810,CA,33.8360282,-118.2202665
+198,11195.0,USA,California,us,3377 Sandstone Court,Pleasanton,94588,CA,37.680463,-121.860128
+199,11284.0,USA,California,us,25793 Durrwood Court,Castro Valley,94552,CA,37.6788246,-122.0341169
+200,10139.0,USA,California,us,1358 Scenic Avenue,Berkeley,94708,CA,37.8830528,-122.2632462
+201,8950.0,USA,California,us,5410 McLean Drive,Elk Grove,95757,CA,38.3890938,-121.4409219
+202,10712.0,USA,California,us,36360 Beech Place,Newark,94560,CA,37.53467699999999,-122.047933
+203,10725.0,USA,California,us,43626 Bryant Street,Fremont,94539,CA,37.526895,-121.92052
+204,10733.0,USA,California,us,65 Hilltop Lane,McKinleyville,95519,CA,40.895179,-124.004128
+205,10734.0,USA,California,us,47634 Kato Road,Fremont,94538,CA,37.4711524,-121.9288008
+206,11296.0,USA,California,us,1521 159th Avenue,San Leandro,94578,CA,37.70179340000001,-122.1192658
+207,10123.0,USA,California,us,915 Sacramento Street,Bakersfield,93305,CA,35.3798759,-119.0002119
+208,10791.0,USA,California,us,6057 Griffith Avenue,Linda,95901,CA,39.1299599,-121.523663
+209,10732.0,USA,California,us,4500 Margalo Avenue,Bakersfield,93313,CA,35.305082,-119.052448
+210,7863.0,USA,California,us,1909 Seventh Street,Berkeley,94710,CA,37.869121,-122.296661
+211,7918.0,USA,California,us,330 Michell Court,Livermore,94551,CA,37.690035,-121.759468
+212,7950.0,USA,California,us,4409 Star Jasmine Court,Bakersfield,93304,CA,35.314966,-119.027406
+213,7957.0,USA,California,us,26334 Adrian Avenue,Hayward,94545,CA,37.636421,-122.102691
+214,8015.0,USA,California,us,2732 Humboldt Avenue,Oakland,94602,CA,37.7906226,-122.2090177
+215,8066.0,USA,California,us,201 Juniper Springs Drive,Mammoth Lakes,93546,CA,37.6349837,-118.9915892
+216,8080.0,USA,California,us,4444 Hansen Avenue,Fremont,94536,CA,37.5538472,-122.0122099
+217,8113.0,USA,California,us,1004 Bellflower Street,Livermore,94551,CA,37.710745,-121.732765
+218,8116.0,USA,California,us,406 Ashwood Court,Vacaville,95688,CA,38.3907616,-121.9805548
+219,8468.0,USA,California,us,16303 Mateo Street,San Leandro,94578,CA,37.697031,-122.11392
+220,8861.0,USA,California,us,61 Callahan Way,Mammoth Lakes,93546,CA,37.647421,-118.978423
+221,8865.0,USA,California,us,330 Michell Court,Livermore,94551,CA,37.690035,-121.759468
+222,8904.0,USA,California,us,22618 South Figueroa Street,Carson,90745,CA,33.8206152,-118.2855662
+223,8925.0,USA,California,us,37675 Fremont Boulevard,Fremont,94536,CA,37.555306,-122.003412
+224,10021.0,USA,California,us,61 Callahan Way,Mammoth Lakes,93546,CA,37.647421,-118.978423
+225,10140.0,USA,California,us,40902 Ingersoll Terrace,Fremont,94538,CA,37.537485,-121.9558629
+226,10151.0,USA,California,us,1679 Frederick Michael Way,Livermore,94550,CA,37.655627,-121.77304
+227,10169.0,USA,California,us,1780 142nd Avenue,San Leandro,94578,CA,37.7168246,-122.1336681
+228,10417.0,USA,California,us,3526 Sutton Loop,Fremont,94536,CA,37.5583435,-121.9995133
+229,10482.0,USA,California,us,36360 Beech Place,Newark,94560,CA,37.53467699999999,-122.047933
+230,10589.0,USA,California,us,7725 Ney Avenue,Oakland,94605,CA,37.767338,-122.167775
+231,10611.0,USA,California,us,461 Alder Street,Eureka,95503,CA,40.76621,-124.164174
+232,10681.0,USA,California,us,11522 Country Spring Court,Cupertino,95014,CA,37.3004559,-122.049009
+233,10827.0,USA,California,us,22062 Cameron Street,Castro Valley,94546,CA,37.6887201,-122.0675144
+234,10864.0,USA,California,us,2755 Country Drive,Fremont,94536,CA,37.557882,-121.986823
+235,10894.0,USA,California,us,5805 Armada Drive,Carlsbad,92008,CA,33.1238541,-117.3152497
+236,11009.0,USA,California,us,310 12th Avenue,Santa Cruz,95062,CA,36.963154,-121.994045
+237,11115.0,USA,California,us,1300 Lemos Lane,Fremont,94539,CA,37.546996,-121.951627
+238,8880.0,USA,California,us,441 Merritt Avenue,Oakland,94610,CA,37.8058663,-122.2493644
+239,8892.0,USA,California,us,5792 Owl Hill Avenue,Santa Rosa,95409,CA,38.467127,-122.640498
+240,9272.0,USA,California,us,4444 Hansen Avenue,Fremont,94536,CA,37.5538472,-122.0122099
+241,10365.0,USA,California,us,1772 150th Avenue,San Leandro,94578,CA,37.708643,-122.124605
+242,10445.0,USA,California,us,1011 San Jose Street,San Leandro,94577,CA,37.72956300000001,-122.147074
+243,10993.0,USA,California,us,4500 Margalo Avenue,Bakersfield,93313,CA,35.305082,-119.052448
+244,8659.0,USA,California,us,1004 Bellflower Street,Livermore,94551,CA,37.710745,-121.732765
+245,8660.0,USA,California,us,145 Grau Drive,Fremont,94536,CA,37.582453,-121.994476
+246,8661.0,USA,California,us,3578 Galindo Street,Oakland,94601,CA,37.783471,-122.2149729
+247,10873.0,USA,California,us,1521 159th Avenue,San Leandro,94578,CA,37.70179340000001,-122.1192658
+248,10395.0,USA,California,us,968 Virginia Avenue,Olivehurst,95961,CA,39.1022419,-121.581218
+249,11047.0,USA,California,us,637 Laurelwood Circle,Vacaville,95687,CA,38.31891,-121.967503
+250,10691.0,USA,California,us,10841 Sutter Circle,Sutter Creek,95685,CA,38.378499,-120.775775
+251,10889.0,USA,California,us,725 65th Street,Oakland,94609,CA,37.849964,-122.266668
+252,7856.0,USA,California,us,1528 Stafford Avenue,Hayward,94541,CA,37.680081,-122.074569
+253,8658.0,USA,California,us,622 Thomas Street,Woodland,95776,CA,38.672731,-121.76065
+254,10087.0,USA,California,us,649 Praderia Circle,Fremont,94539,CA,37.5203849,-121.9236162
+255,10166.0,USA,California,us,266 South J Street,Livermore,94550,CA,37.6805701,-121.7680214
+256,10803.0,USA,California,us,4439 Gale Street,Livermore,94550,CA,37.690199,-121.7411119
+257,11189.0,USA,California,us,26334 Adrian Avenue,Hayward,94545,CA,37.636421,-122.102691
+258,8711.0,USA,California,us,618 Staley Avenue,Hayward,94541,CA,37.6629263,-122.091801
+259,8712.0,USA,California,us,654 Laurette Place,Hayward,94544,CA,37.647646,-122.066458
+260,8713.0,USA,California,us,1357 Addison Street,Berkeley,94702,CA,37.8692812,-122.2846077
+261,8717.0,USA,California,us,1004 Bellflower Street,Livermore,94551,CA,37.710745,-121.732765
+262,8720.0,USA,California,us,1954 Wilson Court,Mountain View,94040,CA,37.36696999999999,-122.089049
+263,11198.0,USA,California,us,3959 Fairlands Drive,Pleasanton,94588,CA,37.6992001,-121.8703701
+264,11283.0,USA,California,us,2835 Jed Road,Escondido,92027,CA,33.140046,-117.032721
+265,10620.0,USA,California,us,4439 Gale Street,Livermore,94550,CA,37.690199,-121.7411119
+266,10776.0,USA,California,us,5110 East Shoshone Avenue,Orange,92867,CA,33.814782,-117.798075
+267,10790.0,USA,California,us,26563 Chisholm Court,Hayward,94544,CA,37.641711,-122.078659
+268,10806.0,USA,California,us,1397 Tallac Lane,Lincoln,95648,CA,38.862404,-121.262661
+269,10809.0,USA,California,us,1820 Scenic Avenue,Berkeley,94709,CA,37.875242,-122.262537
+270,10810.0,USA,California,us,3008 Russell Street,Berkeley,94705,CA,37.8588565,-122.2442037
+271,10856.0,USA,California,us,1265 Xavier Avenue,Hayward,94545,CA,37.648362,-122.111063
+272,10919.0,USA,California,us,3819 Vineyard Avenue,Pleasanton,94566,CA,37.6631486,-121.862728
+273,10933.0,USA,California,us,2134 West Mills Drive,Orange,92868,CA,33.786584,-117.875665
+274,10971.0,USA,California,us,2414 Parker Street,Berkeley,94704,CA,37.862903,-122.2595092
+275,11016.0,USA,California,us,4329 Howe Street,Oakland,94611,CA,37.83019,-122.249552
+276,11105.0,USA,California,us,31 Yosemite Avenue,Oakland,94611,CA,37.823278,-122.255305
+277,11132.0,USA,California,us,20930 Todd Valley Road,Foresthill,95631,CA,38.989466,-120.883108
+278,11163.0,USA,California,us,725 65th Street,Oakland,94609,CA,37.849964,-122.266668
+279,11191.0,USA,California,us,37122 Contra Costa Avenue,Fremont,94536,CA,37.5534511,-122.0133239
+280,11237.0,USA,California,us,680 Quintana Road,Morro Bay,93442,CA,35.3689245,-120.8436854
+281,10629.0,USA,California,us,310 12th Avenue,Santa Cruz,95062,CA,36.963154,-121.994045
+282,10664.0,USA,California,us,3388 Thomasson Lane,Fairfield,94534,CA,38.198231,-122.106795
+283,10687.0,USA,California,us,3578 Galindo Street,Oakland,94601,CA,37.783471,-122.2149729
+284,10699.0,USA,California,us,2632 Jackson Street East,Carson,90810,CA,33.8360282,-118.2202665
+285,10716.0,USA,California,us,1821 Catalpa Way,Hayward,94545,CA,37.622266,-122.081085
+286,10718.0,USA,California,us,5472 Sunstar Common,Fremont,94555,CA,37.5609018,-122.0567745
+287,10805.0,USA,California,us,4016 Doane Street,Fremont,94538,CA,37.514834,-121.95302
+288,10808.0,USA,California,us,4439 Gale Street,Livermore,94550,CA,37.690199,-121.7411119
+289,10830.0,USA,California,us,26563 Chisholm Court,Hayward,94544,CA,37.641711,-122.078659
+290,10834.0,USA,California,us,11256 Palos Verdes Court,Cupertino,95014,CA,37.3044458,-122.0529017
+291,10906.0,USA,California,us,40700 Penn Lane,Fremont,94538,CA,37.540659,-121.957693
+292,10908.0,USA,California,us,1004 Bellflower Street,Livermore,94551,CA,37.710745,-121.732765
+293,10917.0,USA,California,us,3835 Oakes Drive,Hayward,94542,CA,37.661345,-122.032784
+294,10922.0,USA,California,us,7725 Ney Avenue,Oakland,94605,CA,37.767338,-122.167775
+295,10935.0,USA,California,us,11 Alden Court,Roseville,95678,CA,38.776113,-121.280178
+296,10945.0,USA,California,us,40700 Penn Lane,Fremont,94538,CA,37.540659,-121.957693
+297,10946.0,USA,California,us,73455 Twentynine Palms Highway,Twentynine Palms,92277,CA,34.1353352,-116.0598794
+298,10948.0,USA,California,us,1452 55th Avenue,Oakland,94621,CA,37.767671,-122.202326
+299,10951.0,USA,California,us,918 Cheryl Ann Circle,Hayward,94544,CA,37.635859,-122.076923
+300,10954.0,USA,California,us,37600 Sycamore Street,Newark,94560,CA,37.5261943,-122.0304698
+301,11014.0,USA,California,us,2835 Jed Road,Escondido,92027,CA,33.140046,-117.032721
+302,11015.0,USA,California,us,2640 8th Avenue,Oakland,94606,CA,37.8014543,-122.239441
+303,11021.0,USA,California,us,4329 Howe Street,Oakland,94611,CA,37.83019,-122.249552
+304,11042.0,USA,California,us,38676 Greenwich Circle,Fremont,94536,CA,37.562256,-121.976451
+305,11046.0,USA,California,us,1780 142nd Avenue,San Leandro,94578,CA,37.7168246,-122.1336681
+306,11063.0,USA,California,us,101 Mustang Drive,San Luis Obispo,93405,CA,35.294785,-120.66573
+307,11070.0,USA,California,us,2515 60th Avenue,Oakland,94605,CA,37.7705346,-122.1907449
+308,11103.0,USA,California,us,1481 Stannage Avenue,Berkeley,94702,CA,37.87654149999999,-122.2926347
+309,11109.0,USA,California,us,622 Thomas Street,Woodland,95776,CA,38.672731,-121.76065
+310,11113.0,USA,California,us,2704 McGee Avenue,Berkeley,94703,CA,37.8589787,-122.2757415
+311,11144.0,USA,California,us,73455 Twentynine Palms Highway,Twentynine Palms,92277,CA,34.1353352,-116.0598794
+312,11177.0,USA,California,us,5397 Wentworth Avenue,Oakland,94601,CA,37.769842,-122.200969
+313,11207.0,USA,California,us,1890 Orchard View Road,Roseville,95747,CA,38.7943511,-121.3518236
+314,11214.0,USA,California,us,1314 89th Avenue,Oakland,94621,CA,37.7497401,-122.1762833
+315,11248.0,USA,California,us,560 Penstock Drive,Grass Valley,95945,CA,39.213076,-121.077583
+316,11281.0,USA,California,us,2708 Mabel Street,Berkeley,94702,CA,37.857695,-122.284908
+317,11309.0,USA,California,us,4511 Sloat Road,Fremont,94538,CA,37.5420236,-121.9926731
+318,11322.0,USA,California,us,2337 Nebraska Avenue,Selma,93662,CA,36.5616476,-119.6175431
+319,10797.0,USA,California,us,4300 Soquel Drive,Soquel,95073,CA,36.9863278,-121.9625694
+320,10850.0,USA,California,us,5430 Brookdale Avenue,Oakland,94619,CA,37.774636,-122.195447
+321,11164.0,USA,California,us,20375 Wisteria Street,Castro Valley,94546,CA,37.696683,-122.085865
+322,11303.0,USA,California,us,4770 Balboa Way,Fremont,94536,CA,37.551937,-122.021022
+323,10861.0,USA,California,us,26334 Adrian Avenue,Hayward,94545,CA,37.636421,-122.102691
+324,10913.0,USA,California,us,36360 Beech Place,Newark,94560,CA,37.53467699999999,-122.047933
+325,11178.0,USA,California,us,145 Grau Drive,Fremont,94536,CA,37.582453,-121.994476
+326,8935.0,USA,California,us,28250 Dickens Avenue,Hayward,94544,CA,37.626108,-122.072898
+327,11211.0,USA,California,us,637 Britannia Drive,Vallejo,94591,CA,38.10476999999999,-122.193849
+328,11226.0,USA,California,us,24147 Clinton Court,Hayward,94545,CA,37.648857,-122.112388
+329,11254.0,USA,California,us,2400 Easy Street,San Leandro,94578,CA,37.70656,-122.108047
+330,11264.0,USA,California,us,6100 Bullard Drive,Oakland,94611,CA,37.829801,-122.216252
+331,11270.0,USA,California,us,7435 East Tulare Avenue,Fresno,93737,CA,36.743587,-119.656145
+332,11282.0,USA,California,us,10202 Vista Drive,Cupertino,95014,CA,37.3254329,-122.026957
+333,10847.0,USA,California,us,31770 Alvarado Boulevard,Union City,94587,CA,37.5927298,-122.071967
+334,10885.0,USA,California,us,23501 Ida Lane,Hayward,94541,CA,37.660696,-122.100733
+335,10915.0,USA,California,us,2 Sotelo Avenue,Piedmont,94611,CA,37.820272,-122.2195409
+336,10921.0,USA,California,us,1265 Xavier Avenue,Hayward,94545,CA,37.648362,-122.111063
+337,10807.0,USA,California,us,649 Praderia Circle,Fremont,94539,CA,37.5203849,-121.9236162
+338,10898.0,USA,California,us,430 Fig Street,Madera,93638,CA,36.96641109999999,-120.0424251
+339,11269.0,USA,California,us,31 Yosemite Avenue,Oakland,94611,CA,37.823278,-122.255305
+340,10842.0,USA,California,us,1679 Frederick Michael Way,Livermore,94550,CA,37.655627,-121.77304
+341,10874.0,USA,California,us,6214 Herzog Street,Oakland,94608,CA,37.84557849999999,-122.2825201
+342,11213.0,USA,California,us,514 Flower Lane,Alameda,94502,CA,37.7356811,-122.2349598
+343,10433.0,USA,California,us,1679 Frederick Michael Way,Livermore,94550,CA,37.655627,-121.77304
+344,10968.0,USA,California,us,3483 Canyon Creek Drive,San Jose,95132,CA,37.414296,-121.846876
+345,11073.0,USA,California,us,129 Grant Street,Redlands,92373,CA,34.0529643,-117.1847245
+346,11215.0,USA,California,us,145 Grau Drive,Fremont,94536,CA,37.582453,-121.994476
+347,11273.0,USA,California,us,22825 Paseo Place,Hayward,94541,CA,37.6678961,-122.0832649
+348,11285.0,USA,California,us,73455 Twentynine Palms Highway,Twentynine Palms,92277,CA,34.1353352,-116.0598794
+349,11287.0,USA,California,us,152 Teddy Drive,Union City,94587,CA,37.608898,-122.029517
+350,11305.0,USA,California,us,3415 Brookdale Drive,Santa Clara,95051,CA,37.342399,-121.990657
+351,11321.0,USA,California,us,1536 North Main Street,Salinas,93906,CA,36.7122208,-121.6522485
+352,8889.0,USA,California,us,2747 68th Avenue,Oakland,94605,CA,37.768532,-122.180694
+353,10026.0,USA,California,us,1772 150th Avenue,San Leandro,94578,CA,37.708643,-122.124605
+354,10299.0,USA,California,us,125 John Street,Santa Cruz,95060,CA,36.950901,-122.046881
+355,10444.0,USA,California,us,12156 Oslo Drive,Truckee,96161,CA,39.35603649999999,-120.2351517
+356,10625.0,USA,California,us,6431 Shattuck Avenue,Oakland,94609,CA,37.85015,-122.266142
+357,10652.0,USA,California,us,565 Amber Isle,Alameda,94501,CA,37.764288,-122.268645
+358,10663.0,USA,California,us,10202 Vista Drive,Cupertino,95014,CA,37.3254329,-122.026957
+359,10746.0,USA,California,us,4936 Sequoia Avenue,Dublin,94568,CA,37.711885,-121.884051
+360,10751.0,USA,California,us,4300 Soquel Drive,Soquel,95073,CA,36.9863278,-121.9625694
+361,10759.0,USA,California,us,145 Grau Drive,Fremont,94536,CA,37.582453,-121.994476
+362,10841.0,USA,California,us,4511 Sloat Road,Fremont,94538,CA,37.5420236,-121.9926731
+363,10843.0,USA,California,us,840 Inglewood Drive,West Sacramento,95605,CA,38.591235,-121.524984
+364,10844.0,USA,California,us,72 Salmon Road,Alameda,94502,CA,37.739659,-122.255689
+365,10846.0,USA,California,us,1725 Oxford Street,Berkeley,94709,CA,37.87633599999999,-122.2662512
+366,10851.0,USA,California,us,3538 Mendenhall Court,Pleasanton,94588,CA,37.6991919,-121.85909
+367,10852.0,USA,California,us,701 Mussel Slough Road,Hanford,93230,CA,36.353319,-119.655288
+368,10859.0,USA,California,us,11522 Country Spring Court,Cupertino,95014,CA,37.3004559,-122.049009
+369,10905.0,USA,California,us,2704 McGee Avenue,Berkeley,94703,CA,37.8589787,-122.2757415
+370,10924.0,USA,California,us,15267 Hesperian Boulevard,San Leandro,94578,CA,37.6949779,-122.1311145
+371,10949.0,USA,California,us,2134 West Mills Drive,Orange,92868,CA,33.786584,-117.875665
+372,10960.0,USA,California,us,40902 Ingersoll Terrace,Fremont,94538,CA,37.537485,-121.9558629
+373,10976.0,USA,California,us,6214 Herzog Street,Oakland,94608,CA,37.84557849999999,-122.2825201
+374,10986.0,USA,California,us,2632 Jackson Street East,Carson,90810,CA,33.8360282,-118.2202665
+375,10988.0,USA,California,us,25800 Industrial Boulevard,Hayward,94545,CA,37.6368362,-122.1119208
+376,10991.0,USA,California,us,22538 6th Street,Hayward,94541,CA,37.680829,-122.07335
+377,11004.0,USA,California,us,1300 Lemos Lane,Fremont,94539,CA,37.546996,-121.951627
+378,11008.0,USA,California,us,4439 Gale Street,Livermore,94550,CA,37.690199,-121.7411119
+379,11013.0,USA,California,us,732 Kevin Court,Oakland,94621,CA,37.757904,-122.206479
+380,11035.0,USA,California,us,1528 Stafford Avenue,Hayward,94541,CA,37.680081,-122.074569
+381,11083.0,USA,California,us,310 12th Avenue,Santa Cruz,95062,CA,36.963154,-121.994045
+382,11100.0,USA,California,us,422 Richmond Street,El Cerrito,94530,CA,37.9028101,-122.2981152
+383,11142.0,USA,California,us,1076 Foster Street,Alameda,94502,CA,37.736838,-122.25143
+384,11165.0,USA,California,us,45430 Lauri Lane,Oakhurst,93644,CA,37.34877,-119.717807
+385,11175.0,USA,California,us,4255 Tanager Common,Fremont,94555,CA,37.5738888,-122.0460256
+386,11181.0,USA,California,us,18687 County Road 97,Woodland,95695,CA,38.66777099999999,-121.820164
+387,11194.0,USA,California,us,1528 Spruce Street,Berkeley,94709,CA,37.879558,-122.266155
+388,11199.0,USA,California,us,2042 High Street,Oakland,94601,CA,37.776415,-122.209418
+389,11253.0,USA,California,us,16502 South Main Street,Gardena,90248,CA,33.8816216,-118.2753946
+390,11265.0,USA,California,us,461 Alder Street,Eureka,95503,CA,40.76621,-124.164174
+391,11276.0,USA,California,us,37675 Fremont Boulevard,Fremont,94536,CA,37.555306,-122.003412
+392,11298.0,USA,California,us,6716 South Mariposa Lane,Dublin,94568,CA,37.713863,-121.9110367
+393,11299.0,USA,California,us,1357 Addison Street,Berkeley,94702,CA,37.8692812,-122.2846077
+394,9434.0,USA,California,us,125 John Street,Santa Cruz,95060,CA,36.950901,-122.046881
+395,9537.0,USA,California,us,406 Ashwood Court,Vacaville,95688,CA,38.3907616,-121.9805548
+396,10641.0,USA,California,us,30451 Servilla Place,Castaic,91384,CA,34.47215,-118.643301
+397,10670.0,USA,California,us,461 Alder Street,Eureka,95503,CA,40.76621,-124.164174
+398,10676.0,USA,California,us,10202 Vista Drive,Cupertino,95014,CA,37.3254329,-122.026957
+399,10826.0,USA,California,us,4253 San Juan Avenue,Fremont,94536,CA,37.560886,-122.021195
+400,10994.0,USA,California,us,31353 Santa Elena Way,Union City,94587,CA,37.593981,-122.059762
+401,11125.0,USA,California,us,6431 Shattuck Avenue,Oakland,94609,CA,37.85015,-122.266142
+402,11192.0,USA,California,us,45430 Lauri Lane,Oakhurst,93644,CA,37.34877,-119.717807
+403,11288.0,USA,California,us,2042 High Street,Oakland,94601,CA,37.776415,-122.209418
+404,10825.0,USA,California,us,330 Michell Court,Livermore,94551,CA,37.690035,-121.759468
+405,10660.0,USA,California,us,16502 South Main Street,Gardena,90248,CA,33.8816216,-118.2753946
+406,10695.0,USA,California,us,461 Alder Street,Eureka,95503,CA,40.76621,-124.164174
+407,10696.0,USA,California,us,5264 Shafter Avenue,Oakland,94618,CA,37.839058,-122.256035
+408,10838.0,USA,California,us,4511 Sloat Road,Fremont,94538,CA,37.5420236,-121.9926731
+409,10959.0,USA,California,us,1219 Carleton Street,Berkeley,94702,CA,37.8591054,-122.285823
+410,10969.0,USA,California,us,72 Salmon Road,Alameda,94502,CA,37.739659,-122.255689
+411,11085.0,USA,California,us,1679 Frederick Michael Way,Livermore,94550,CA,37.655627,-121.77304
+412,11107.0,USA,California,us,222 Quince Street,San Diego,92103,CA,32.7368499,-117.162443
+413,11166.0,USA,California,us,6630 MacArthur Boulevard,Oakland,94605,CA,37.7724559,-122.1773575
+414,11295.0,USA,California,us,11522 Country Spring Court,Cupertino,95014,CA,37.3004559,-122.049009
+415,10678.0,USA,California,us,1076 Foster Street,Alameda,94502,CA,37.736838,-122.25143
+416,10738.0,USA,California,us,560 Penstock Drive,Grass Valley,95945,CA,39.213076,-121.077583
+417,10925.0,USA,California,us,7144 Marlborough Terrace,Berkeley,94705,CA,37.8619142,-122.2237384
+418,10958.0,USA,California,us,1352 Purdue Street,San Leandro,94579,CA,37.6950209,-122.155653
+419,11072.0,USA,California,us,1076 Foster Street,Alameda,94502,CA,37.736838,-122.25143
+420,11240.0,USA,California,us,2685 California Street,Mountain View,94040,CA,37.4068693,-122.1129728
+421,10375.0,USA,California,us,5792 Owl Hill Avenue,Santa Rosa,95409,CA,38.467127,-122.640498
+422,10412.0,USA,California,us,637 Britannia Drive,Vallejo,94591,CA,38.10476999999999,-122.193849
+423,11022.0,USA,California,us,145 Grau Drive,Fremont,94536,CA,37.582453,-121.994476
+424,11141.0,USA,California,us,1528 Stafford Avenue,Hayward,94541,CA,37.680081,-122.074569
+425,11182.0,USA,California,us,1234 Carmel Street,Madera,93638,CA,36.949941,-120.043739
+426,10044.0,USA,California,us,145 Grau Drive,Fremont,94536,CA,37.582453,-121.994476
+427,10098.0,USA,California,us,145 Grau Drive,Fremont,94536,CA,37.582453,-121.994476
+428,10762.0,USA,California,us,136 Acacia Drive,Blue Lake,95525,CA,40.879484,-123.978726
+429,10794.0,USA,California,us,430 Fig Street,Madera,93638,CA,36.96641109999999,-120.0424251
+430,10840.0,USA,California,us,1679 Frederick Michael Way,Livermore,94550,CA,37.655627,-121.77304
+431,10853.0,USA,California,us,5397 Wentworth Avenue,Oakland,94601,CA,37.769842,-122.200969
+432,10901.0,USA,California,us,6244 Sun River Drive,Sacramento,95824,CA,38.512894,-121.41258
+433,10910.0,USA,California,us,20370 California 116,Monte Rio,95462,CA,38.4677404,-123.0097631
+434,10927.0,USA,California,us,30451 Servilla Place,Castaic,91384,CA,34.47215,-118.643301
+435,10936.0,USA,California,us,2531 Prestwick Avenue,Concord,94519,CA,37.9966039,-122.0280747
+436,10944.0,USA,California,us,1497 Greenbrier Road,West Sacramento,95691,CA,38.547427,-121.521598
+437,10957.0,USA,California,us,4770 Balboa Way,Fremont,94536,CA,37.551937,-122.021022
+438,10982.0,USA,California,us,20097 Butterfield Drive,Castro Valley,94546,CA,37.6990989,-122.085039
+439,11017.0,USA,California,us,310 12th Avenue,Santa Cruz,95062,CA,36.963154,-121.994045
+440,11060.0,USA,California,us,45430 Lauri Lane,Oakhurst,93644,CA,37.34877,-119.717807
+441,11071.0,USA,California,us,7800 River Mist Avenue,Bakersfield,93313,CA,35.308551,-119.088746
+442,11081.0,USA,California,us,1222 Arcade Boulevard,Sacramento,95815,CA,38.626122,-121.43861
+443,11084.0,USA,California,us,2750 Gilmore Lane,Oroville,95966,CA,39.5076332,-121.5385254
+444,11092.0,USA,California,us,1987 Boxer Court,San Lorenzo,94580,CA,37.670738,-122.147019
+445,11108.0,USA,California,us,4439 Gale Street,Livermore,94550,CA,37.690199,-121.7411119
+446,11136.0,USA,California,us,654 Laurette Place,Hayward,94544,CA,37.647646,-122.066458
+447,11170.0,USA,California,us,514 Flower Lane,Alameda,94502,CA,37.7356811,-122.2349598
+448,11173.0,USA,California,us,2641 Heather Lane,Redding,96002,CA,40.5690835,-122.3433244
+449,11176.0,USA,California,us,328 17th Street,Paso Robles,93446,CA,35.629985,-120.702516
+450,11190.0,USA,California,us,10826 Pointe Royal Drive,Bakersfield,93311,CA,35.2930007,-119.1225908
+451,11257.0,USA,California,us,15267 Hesperian Boulevard,San Leandro,94578,CA,37.6949779,-122.1311145
+452,11275.0,USA,California,us,968 Virginia Avenue,Olivehurst,95961,CA,39.1022419,-121.581218
+453,11308.0,USA,California,us,1011 Devon Drive,Hayward,94542,CA,37.65444100000001,-122.067741
+454,10689.0,USA,California,us,461 Alder Street,Eureka,95503,CA,40.76621,-124.164174
+455,10814.0,USA,California,us,3600 Pennsylvania Avenue,Fremont,94536,CA,37.5516245,-121.9872735
+456,10855.0,USA,California,us,61 Callahan Way,Mammoth Lakes,93546,CA,37.647421,-118.978423
+457,10928.0,USA,California,us,1383 Purdue Street,San Leandro,94579,CA,37.695385,-122.156506
+458,10963.0,USA,California,us,36360 Beech Place,Newark,94560,CA,37.53467699999999,-122.047933
+459,10966.0,USA,California,us,20370 California 116,Monte Rio,95462,CA,38.4677404,-123.0097631
+460,10983.0,USA,California,us,25800 Industrial Boulevard,Hayward,94545,CA,37.6368362,-122.1119208
+461,10990.0,USA,California,us,4444 Central Avenue,Fremont,94536,CA,37.55069599999999,-122.007419
+462,11086.0,USA,California,us,40700 Penn Lane,Fremont,94538,CA,37.540659,-121.957693
+463,11179.0,USA,California,us,7725 Ney Avenue,Oakland,94605,CA,37.767338,-122.167775
+464,11180.0,USA,California,us,1352 Purdue Street,San Leandro,94579,CA,37.6950209,-122.155653
+465,11193.0,USA,California,us,1515 Excelsior Avenue,Oakland,94602,CA,37.8019867,-122.2252044
+466,11233.0,USA,California,us,2632 Jackson Street East,Carson,90810,CA,33.8360282,-118.2202665
+467,11242.0,USA,California,us,16303 Mateo Street,San Leandro,94578,CA,37.697031,-122.11392
+468,11266.0,USA,California,us,5938 Laguna Honda Street,Redding,96001,CA,40.5283666,-122.3878429
+469,8794.0,USA,California,us,145 Grau Drive,Fremont,94536,CA,37.582453,-121.994476
+470,11020.0,USA,California,us,33655 5th Street,Union City,94587,CA,37.601043,-122.019351
+471,11079.0,USA,California,us,12283 Thomas Lane,Yucaipa,92399,CA,34.030566,-117.089117
+472,11206.0,USA,California,us,1 Portsmouth Road,Piedmont,94610,CA,37.816922,-122.235478
+473,11262.0,USA,California,us,2399 East 14th Street,San Leandro,94577,CA,37.7159947,-122.1460405
+474,10811.0,USA,California,us,129 Grant Street,Redlands,92373,CA,34.0529643,-117.1847245
+475,11040.0,USA,California,us,2 Sotelo Avenue,Piedmont,94611,CA,37.820272,-122.2195409
+476,11134.0,USA,California,us,37600 Sycamore Street,Newark,94560,CA,37.5261943,-122.0304698
+477,11185.0,USA,California,us,637 Laurelwood Circle,Vacaville,95687,CA,38.31891,-121.967503
+478,11256.0,USA,California,us,10202 Vista Drive,Cupertino,95014,CA,37.3254329,-122.026957
+479,10999.0,USA,California,us,1797 Pasatiempo Drive,Chico,95928,CA,39.6777229,-121.7704692
+480,10633.0,USA,California,us,4444 Central Avenue,Fremont,94536,CA,37.55069599999999,-122.007419
+481,8026.0,USA,California,us,18687 County Road 97,Woodland,95695,CA,38.66777099999999,-121.820164
+482,8714.0,USA,California,us,29 Vista Flores,Pleasanton,94566,CA,37.6681878,-121.8514835
+483,8044.0,USA,California,us,918 Cheryl Ann Circle,Hayward,94544,CA,37.635859,-122.076923
+484,10940.0,USA,California,us,22709 Canyon Terrace Drive,Castro Valley,94552,CA,37.688608,-122.042969
+485,10947.0,USA,California,us,835 Shiloh Court,Redding,96003,CA,40.620584,-122.368137
+486,10647.0,USA,California,us,7237 Wild Currant Way,Oakland,94611,CA,37.8387892,-122.1996064
+487,10774.0,USA,California,us,24647 Patricia Court,Hayward,94541,CA,37.669022,-122.065331
+488,11112.0,USA,California,us,1108 Slater Street,Santa Rosa,95404,CA,38.451184,-122.715459
+489,10884.0,USA,California,us,16303 Mateo Street,San Leandro,94578,CA,37.697031,-122.11392
+490,11116.0,USA,California,us,2337 Nebraska Avenue,Selma,93662,CA,36.5616476,-119.6175431
+491,11251.0,USA,California,us,1300 Lemos Lane,Fremont,94539,CA,37.546996,-121.951627
+492,10977.0,USA,California,us,11150 Sun Valley Drive,Oakland,94605,CA,37.752039,-122.11822
+493,10952.0,USA,California,us,Norðausturvegur,Island,78585,,0.0,0.0
+494,8054.0,USA,California,us,5110 East Shoshone Avenue,Orange,92867,CA,33.814782,-117.798075
+495,11087.0,USA,California,us,51035 Conifer Drive,Soda Springs,95728,CA,39.31757899999999,-120.443713
+496,10801.0,USA,California,us,1821 Catalpa Way,Hayward,94545,CA,37.622266,-122.081085
+497,10909.0,USA,California,us,129 Grant Street,Redlands,92373,CA,34.0529643,-117.1847245
+498,11274.0,USA,California,us,3905 Lyceum Avenue,Los Angeles,90066,CA,33.9967467,-118.440265
+499,11188.0,USA,California,us,145 Grau Drive,Fremont,94536,CA,37.582453,-121.994476
